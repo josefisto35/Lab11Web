@@ -1,0 +1,45 @@
+{
+	"folders": [
+		{
+			"name": "lab6web",
+			"path": "..\\..\\Pert7\\Praktikum6\\Lab6Web\\lab6web"
+		},
+		{
+			"name": "lab6web-1",
+			"path": "..\\..\\Pert7\\Praktikum6\\Lab6Web\\lab6web-1"
+		},
+		{
+			"path": "..\\..\\Pert9\\Praktikum7\\Lab7Web"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\..\\..\\xampp\\htdocs\\lab7_php_dasar"
+		},
+		{
+			"path": "..\\..\\Pert10\\Lab8Web"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\..\\..\\xampp\\htdocs\\lab8_php_database"
+		},
+		{
+			"path": "..\\..\\Pert11\\Lab9Web"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\..\\..\\xampp\\htdocs\\labzero"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\..\\..\\xampp\\htdocs\\lab_0_test"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\..\\..\\xampp\\htdocs\\lab11_php_ci\\ci4\\app\\Config"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\..\\..\\xampp\\htdocs\\lab11_php_ci\\ci4\\app\\Controllers"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\..\\..\\xampp\\htdocs\\lab11_php_ci\\ci4\\app\\Views"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Lab5Web"
+	}
+}
